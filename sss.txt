@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 aaaaaa
 
 
 aaaaaaaaaaaaaaaa
 bbbbbbbbbbb
+=======
+bbbbbbbccccc
+ccccc
+
+
+dddddsssss
+
+ssss
+
+
+
+aaaaaaaaaaaaaaaaaaa
+>>>>>>> branch
